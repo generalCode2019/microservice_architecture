@@ -5,7 +5,7 @@
 
 The sample application has four services namely getSellers, getProducts, addProductToSeller and getCorrelatedLogs. Each of the service created with multiple microservices. You can see the top level architecture of this demo in the image below.
 
-![alt tag](https://github.com/generalCode2019/microservices_architecture/blob/main/microservice_demo.png?raw=true)
+![alt tag](https://github.com/generalCode2019/microservice_architecture/blob/master/microservice_demo.png?raw=true)
 
 ### Components Integrated & Tools Usage   
 ##### Service registration and discovery
