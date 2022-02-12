@@ -8,7 +8,7 @@ The sample application has four services namely getSellers, getProducts, addProd
 ![alt tag](https://github.com/generalCode2019/microservice_architecture/blob/master/microservice_demo.png?raw=true)
 
 You can see demo video:
-[![Watch the video]](https://github.com/generalCode2019/microservice_architecture/blob/master/demo_video.mp4)
+https://github.com/generalCode2019/microservice_architecture/blob/master/demo_video.mp4
 
 
 ### Components Integrated & Tools Usage   
